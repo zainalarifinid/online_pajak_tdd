@@ -1,5 +1,5 @@
 
-const StringCalculator = require('./StringCalculator');
+const StringCalculator = require('../src/StringCalculator');
 
 describe('StringCalculator', () => {
   it('is a StringCalculator object', () => {
